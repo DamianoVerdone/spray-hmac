@@ -11,7 +11,7 @@ See example project [spray-hmac-angularjs-example](https://github.com/mbilski/sp
 ```scala
 resolvers += "mbilski" at "http://dl.bintray.com/mbilski/maven"
 
-libraryDependencies += "mbilski" %% "spray-hmac" % "1.0.0"
+libraryDependencies += "mbilski" %% "spray-hmac" % "1.0.1"
 ```
 
 ## License
